@@ -50,7 +50,7 @@ Gracias a todas las personas que hacen posible este proyecto 💖
     <td align="center">
       <a href="https://github.com/DanRo3">
         <img src="https://avatars.githubusercontent.com/u/105675604?s=70&v=4" width="100px;" alt="Usuario 1" style="border-radius: 50%;"/>
-        <br /><sub><b>Daniel Rojas Grass</b></sub>
+        <br /><sub><b>Daniel Rojas Grass (DanRo Dev)</b></sub>
       </a>
     </td>
     <td align="center">
@@ -68,7 +68,13 @@ Gracias a todas las personas que hacen posible este proyecto 💖
     <td align="center">
       <a href="https://github.com/ProImpact">
         <img src="https://avatars.githubusercontent.com/u/142456751?v=4" width="100px;" alt="Usuario 3" style="border-radius: 50%;"/>
-        <br /><sub><b>ProImpact</b></sub>
+        <br /><sub><b>Anthony</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/G35U599">
+        <img src="https://avatars.githubusercontent.com/u/142456751?v=4" width="100px;" alt="Usuario 4" style="border-radius: 50%;"/>
+        <br /><sub><b>Jesús Enrique Fernández Prieto</b></sub>
       </a>
     </td>
   </tr>
