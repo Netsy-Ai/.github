@@ -73,7 +73,7 @@ Gracias a todas las personas que hacen posible este proyecto 💖
     </td>
     <td align="center">
       <a href="https://github.com/G35U599">
-        <img src="https://avatars.githubusercontent.com/u/142456751?v=4" width="100px;" alt="Usuario 4" style="border-radius: 50%;"/>
+        <img src="https://avatars.githubusercontent.com/u/149320709?v=4" width="100px;" alt="Usuario 4" style="border-radius: 50%;"/>
         <br /><sub><b>Jesús Enrique Fernández Prieto</b></sub>
       </a>
     </td>
